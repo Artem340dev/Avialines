@@ -1,0 +1,7 @@
+name: Avialines
+version: '${project.version}'
+main: org.peopleXrCb.avialines.AvialinesPlugin
+softdepend: [Vault, Essentials]
+commands:
+  avialines:
+    usage: /avialines

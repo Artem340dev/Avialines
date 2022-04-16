@@ -1,0 +1,29 @@
+avialines:
+  id1:
+    name: "&6&lАзимут"
+    price: 5
+    bagage: 1
+    icon:
+      material: WOOL
+      color: 1
+  id2:
+    name: "&a&lS7"
+    price: 17
+    bagage: 15
+    icon:
+      material: WOOL
+      color: 5
+  id3:
+    name: "&c&lRed Wings"
+    price: 11
+    bagage: 10
+    icon:
+      material: WOOL
+      color: 14
+  id4:
+    name: "&d&lSmartavia"
+    price: 8
+    bagage: 5
+    icon:
+      material: WOOL
+      color: 10
